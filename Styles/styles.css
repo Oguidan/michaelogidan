@@ -825,18 +825,8 @@ section {
   }
 }
 @media screen and (max-width: 1432px) {
-  header {
-    padding: 0 !important;
-  }
   .section {
     padding: 7rem 11rem;
-  }
-  .contact-content-con {
-    flex-direction: column;
-  }
-  .contact-content-con .right-contact {
-    margin-left: 0;
-    margin-top: 2.5rem;
   }
   .contact-content-con .right-contact .i-ctrl-2 {
     flex-direction: column;
