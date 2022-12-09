@@ -461,6 +461,11 @@ section{
         top: 60%;
         font-size: 1.5cm;
         color: #27AE60;
+        &:hover{
+            transform: translateY(-15px);
+            cursor: pointer;
+            transition: all .4s ease-in-out;
+        }
     }
     .portfolio-item{
         position: relative;
@@ -542,6 +547,11 @@ section{
         top: 60%;
         font-size: 1.5cm;
         color: #27AE60;
+        &:hover{
+            transform: translateY(-15px);
+            cursor: pointer;
+            transition: all .4s ease-in-out;
+        }
     }
     .blog{
         position: relative;
